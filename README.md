@@ -1,5 +1,5 @@
 # Warren King
-Computer Information Systems @ University of Houston · Cybersecurity Focus
+Computer Information Systems @ University of Houston
 Focused on cloud infrastructure security and deployment. I have an IAM background and im really interested in AI and NHI security. Constantly sharpening my skills through projects understanding not only how tools work but why they are used on a systemic level.
 ## Projects
 - [AWS Cloud Honeypot](https://warrenek1.github.io/aws-cloud-honeypot) — Deployed a live honeypot on EC2 using OpenCanary, capturing real attacker behavior with CloudWatch + Lambda + DynamoDB
